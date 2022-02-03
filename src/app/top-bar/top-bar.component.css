@@ -1,0 +1,31 @@
+.submit-ticket{
+    background-color: #5DB2FF;
+    width: 129px;
+    height: 41px;
+    padding: 10px;
+    border-radius: 7px;
+    margin-right: 40px;
+}
+nav{
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 2px solid; */
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+.background{
+    margin-top: 20px;
+    margin-left:20px;
+    margin-right: 20px;
+    width: 1366px;
+    height: 274px;   
+}
+.logo img{
+    width: 114px;
+    height: 38.29px;
+}
