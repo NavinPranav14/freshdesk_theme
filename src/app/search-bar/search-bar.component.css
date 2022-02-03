@@ -1,0 +1,59 @@
+.search-bar{
+    position: relative;
+    height: 250px;
+    border-top-right-radius: 7px;
+    background-image: url("../../assets/tt-start-top2 1.png");
+    margin:20px 25px 0px 25px;
+}
+.content{
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 75px 0 0 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 18px;
+}
+.search{
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+}
+.search svg{
+    height: 15px;
+    width: 15px;
+    background-color: white;
+}
+
+.search input{
+    width: 496px;
+    height: 50px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.search input::placeholder{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    /* dark/dark4 */
+
+    color: #757575;
+}
+
+.search button{
+    padding: 0px 20px;
+    height: 50px;
+    background-color: white;
+    border: none;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    
+}

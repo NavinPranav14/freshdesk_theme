@@ -1,0 +1,69 @@
+.support{
+    margin: auto;
+    height: 200px;
+    width: 1300px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFF5E2;
+    margin-bottom: 50px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+
+.help-1{
+    margin-top: 45px;
+    width: 327px;
+    height: 17px;
+    left: 556px;
+    top: 1485px;   
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;   
+    color: #5E5E5E;
+}
+
+.help-2{
+    width: 455px;
+    height: 30px;
+    left: 492px;
+    top: 1521px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #303030;
+}
+button{
+    width: 222px;
+    height: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background: #202020;
+    border-radius: 7px;
+}
+
+.button-1{
+    margin-right: 30px;
+}
+
+a{
+    font-style: normal;
+    font-weight: bold;
+    line-height: 17px;
+    width: 91px;
+    height: 17px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.chat-support{
+    margin-right: 20px;
+}
